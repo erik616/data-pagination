@@ -1,0 +1,82 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "slug": "hey",
+      "amount": 10,
+      "id": "7476"
+    },
+    {
+      "title": "Java",
+      "slug": "hey",
+      "amount": 5,
+      "id": "2eea"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "hey",
+      "amount": 13,
+      "id": "7505"
+    },
+    {
+      "title": "HTML/CSS",
+      "slug": "hey",
+      "amount": 8,
+      "id": "9ff3"
+    },
+    {
+      "title": "C",
+      "slug": "hey",
+      "amount": 7,
+      "id": "8af1"
+    },
+    {
+      "title": "Python",
+      "slug": "hey",
+      "amount": 15,
+      "id": "d0b0"
+    },
+    {
+      "title": "I.A",
+      "slug": "hey",
+      "amount": 1,
+      "id": "4499"
+    },
+    {
+      "title": "Angular",
+      "slug": "hey",
+      "amount": 1,
+      "id": "587a"
+    },
+    {
+      "title": "React Native",
+      "slug": "hey",
+      "amount": 11,
+      "id": "6346"
+    },
+    {
+      "id": "0d03",
+      "title": "mutantes x man",
+      "slug": "mutantes-x-man",
+      "amount": 0
+    },
+    {
+      "id": "826d",
+      "title": "novos mutantes",
+      "slug": "novos-mutantes",
+      "amount": 0
+    },
+    {
+      "id": "c212",
+      "title": "jovens vingadores",
+      "slug": "jovens-vingadores",
+      "amount": 0
+    },
+    {
+      "id": "5f9b",
+      "title": "adrianne gostosa",
+      "slug": "adrianne-gostosa",
+      "amount": 0
+    }
+  ]
+}
